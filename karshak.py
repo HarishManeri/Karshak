@@ -54,5 +54,5 @@ elif page == "Contact Us":
         if submit:
             st.success(f"Thank you {name}, we’ll get back to you at {email} soon!")
 
-    st.write("📍 Location: 123 Green Road, Organic Town, Earth")
-    st.write("📱 Phone: +91-9876543210")
+    st.write("📍 Location: Tirupati")
+    st.write("📱 Phone: +91-9346028588")
